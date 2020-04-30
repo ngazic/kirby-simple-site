@@ -3,6 +3,11 @@
 ## Live site link:
 https://kirby-simple-site.herokuapp.com/
 
+## Link to panel/editor
+
+https://kirby-simple-site.herokuapp.com/panel
+localhost:8000/panel
+
 
 ## Kirby Plainkit
 
