@@ -4,13 +4,11 @@
     "type": "project",
     "keywords": ["kirby", "cms", "starterkit"],
     "homepage": "https://getkirby.com",
-    "authors": [
-        {
-            "name": "Bastian Allgeier",
-            "email": "bastian@getkirby.com",
-            "homepage": "https://getkirby.com"
-        }
-    ],
+    "authors": [{
+        "name": "Bastian Allgeier",
+        "email": "bastian@getkirby.com",
+        "homepage": "https://getkirby.com"
+    }],
     "support": {
         "email": "support@getkirby.com",
         "issues": "https://github.com/getkirby/starterkit/issues",
@@ -19,7 +17,10 @@
     },
     "require": {
         "php": ">=7.1.0",
-        "getkirby/cms": "^3.0"
+        "getkirby/cms": "^3.0",
+        "ext-curl": "*",
+        "ext-mbstring": "*",
+        "claviska/simpleimage": "^3.3"
     },
     "config": {
         "optimize-autoloader": true
