@@ -1,0 +1,54 @@
+Title: Contact
+
+----
+
+Indexbyse: true
+
+----
+
+Metatitle: gaza description
+
+----
+
+Metadescription: Contact gaza
+
+----
+
+Headline: 
+
+----
+
+Formtitle: BeMo Academic Consulting Inc.
+
+----
+
+Phone: 1-855-900-BeMo (2366)
+
+----
+
+Email: info@bemoacademicconsulting.com
+
+----
+
+Supportemail: info@bemoacademicconsulting.com
+
+----
+
+Heroimage:
+
+- contact-us.png
+
+----
+
+Text: Gaza's text
+
+----
+
+Gaza: Something witty goes here
+
+----
+
+Hero-image:
+
+- >
+  66399558_476272692944183_3541496841129786482_n.jpg

@@ -1,0 +1,33 @@
+title: Site
+tabs:
+  content:
+    label: Content
+    sections:
+      drafts:
+        headline: Drafts
+        type: pages
+        status: draft
+      unlisted:
+        headline: Unlisted
+        type: pages
+        status: unlisted
+      listed:
+        headline: Listed
+        type: pages
+        status: listed
+  options:
+    label: Options
+    sections:
+      content:
+        type: fields
+        fields:
+          facebookAdvertising:
+            label: Facebook advertising pixel
+            type: textarea
+            size: small
+            buttons: false
+          googleAnalytics:
+            label: Google analytics
+            type: textarea
+            size: small
+            buttons: false

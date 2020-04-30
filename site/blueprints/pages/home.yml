@@ -1,0 +1,42 @@
+title: Home Page
+preset: page
+fields:
+  pageSettings:
+      label: Page Settings
+      type: headline
+  indexBySE:
+    label: Index by Search Engines
+    type: toggle
+    text:
+        -
+            en: Enabled Indexing By SE
+        -
+            en: Disabled Indexing By SE
+    default: true
+  metaTitle:
+    label: Meta Title
+    type: text
+    size: small
+  metaDescription:
+    label: Meta Description
+    type: text
+    size: medium
+  line:
+    type: line
+  content:
+    label: Content
+    type: headline
+  headline:
+     label: Headline
+    type: text
+    size: small
+  text:
+    label: Text
+    type: textarea
+    size: large
+  heroImage:
+    label: Hero Image
+    type: files
+    multiple: false
+ 
+

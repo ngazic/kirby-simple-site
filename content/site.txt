@@ -1,0 +1,9 @@
+Title: Gaza Site
+
+----
+
+Facebookadvertising: <script>console.log('replace this with facebook advertising pixel code');</script>
+
+----
+
+Googleanalytics: <script>console.log('replace this with google analytics code');</script>
