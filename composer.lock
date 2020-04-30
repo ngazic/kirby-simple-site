@@ -4,8 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3cdb80ae1cd79e0df03dcd0c7a0a965d",
-    "packages": [{
+    "content-hash": "01889b3de05a2f64df07fc56db515f92",
+    "packages": [
+        {
             "name": "claviska/simpleimage",
             "version": "3.3.3",
             "source": {
@@ -34,11 +35,13 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
-                "name": "Cory LaViska",
-                "homepage": "http://www.abeautifulsite.net/",
-                "role": "Developer"
-            }],
+            "authors": [
+                {
+                    "name": "Cory LaViska",
+                    "homepage": "http://www.abeautifulsite.net/",
+                    "role": "Developer"
+                }
+            ],
             "description": "A PHP class that makes working with images as simple as possible.",
             "time": "2017-09-12T09:03:56+00:00"
         },
@@ -84,11 +87,13 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
-                "name": "Filipe Dobreira",
-                "homepage": "https://github.com/filp",
-                "role": "Developer"
-            }],
+            "authors": [
+                {
+                    "name": "Filipe Dobreira",
+                    "homepage": "https://github.com/filp",
+                    "role": "Developer"
+                }
+            ],
             "description": "php error handling for cool kids",
             "homepage": "https://filp.github.io/whoops/",
             "keywords": [
@@ -144,11 +149,13 @@
             "license": [
                 "proprietary"
             ],
-            "authors": [{
-                "name": "Kirby Team",
-                "email": "support@getkirby.com",
-                "homepage": "https://getkirby.com"
-            }],
+            "authors": [
+                {
+                    "name": "Kirby Team",
+                    "email": "support@getkirby.com",
+                    "homepage": "https://getkirby.com"
+                }
+            ],
             "description": "The Kirby 3 core",
             "homepage": "https://getkirby.com",
             "keywords": [
@@ -332,12 +339,14 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
-                "name": "Mathieu Lechat",
-                "email": "math.lechat@gmail.com",
-                "homepage": "http://matthecat.com",
-                "role": "Developer"
-            }],
+            "authors": [
+                {
+                    "name": "Mathieu Lechat",
+                    "email": "math.lechat@gmail.com",
+                    "homepage": "http://matthecat.com",
+                    "role": "Developer"
+                }
+            ],
             "description": "Extract colors from an image as a human would do.",
             "homepage": "https://github.com/thephpleague/color-extractor",
             "keywords": [
@@ -376,7 +385,8 @@
             "license": [
                 "BSD-3-Clause"
             ],
-            "authors": [{
+            "authors": [
+                {
                     "name": "Michel Fortin",
                     "email": "michel.fortin@michelf.ca",
                     "homepage": "https://michelf.ca/",
@@ -433,10 +443,12 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
-                "name": "mustangostang",
-                "email": "vlad.andersen@gmail.com"
-            }],
+            "authors": [
+                {
+                    "name": "mustangostang",
+                    "email": "vlad.andersen@gmail.com"
+                }
+            ],
             "description": "A simple YAML loader/dumper class for PHP",
             "homepage": "https://github.com/mustangostang/spyc/",
             "keywords": [
@@ -492,7 +504,8 @@
             "license": [
                 "LGPL-2.1"
             ],
-            "authors": [{
+            "authors": [
+                {
                     "name": "Jim Jagielski",
                     "email": "jimjag@gmail.com"
                 },
@@ -543,10 +556,12 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
-                "name": "PHP-FIG",
-                "homepage": "http://www.php-fig.org/"
-            }],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "http://www.php-fig.org/"
+                }
+            ],
             "description": "Common interface for logging libraries",
             "homepage": "https://github.com/php-fig/log",
             "keywords": [
@@ -594,7 +609,8 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
+            "authors": [
+                {
                     "name": "Nicolas Grekas",
                     "email": "p@tchwork.com"
                 },
@@ -646,10 +662,12 @@
             "license": [
                 "MIT"
             ],
-            "authors": [{
-                "name": "Renan Gonçalves",
-                "email": "renan.saddam@gmail.com"
-            }],
+            "authors": [
+                {
+                    "name": "Renan Gonçalves",
+                    "email": "renan.saddam@gmail.com"
+                }
+            ],
             "description": "A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)",
             "homepage": "https://github.com/true/php-punycode",
             "keywords": [
